@@ -31,6 +31,9 @@ This project is a React application designed to help users prepare for exams by 
 - **src/App.css**: Styling for the application.
 - **src/index.tsx**: Entry point of the application.
 
+## Demo
+You can check screenshots in `Demo.md` file!
+
 ## Contributors
 - [Your Name](https://github.com/your-profile) - Project Lead & Developer
 
